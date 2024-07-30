@@ -1,0 +1,195 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 70%;
+    margin: auto;
+    align-items: center;
+    height: 60px;
+}
+
+.header1 {
+    color: aqua;
+    font-size: 40px;
+}
+
+.text {
+    width: 95%;
+    height: 470px;
+    background-image: url(./fotoo3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+    align-items: center;
+    text-align: center;
+}
+
+.text1 {
+    margin-left: 300px;
+}
+
+.text2 {
+    margin-left: -100px;
+}
+
+.par {
+    font-size: 56px;
+    color: aliceblue;
+    padding-top: 100px;
+}
+
+.knop1 {
+    width: 100px;
+    height: 30px;
+    background-color: #69B9FF;
+}
+
+.knop2 {
+    width: 150px;
+    height: 30px;
+}
+
+.text3 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.bos1 {
+    width: 95%;
+    display: flex;
+    margin: auto;
+    justify-content: space-around;
+    padding-top: 40px;
+}
+
+.soat {
+    width: 22%;
+    text-align: center;
+    box-shadow: 0px 0px 1px 1px;
+}
+
+.boss1 {
+    width: 40%;
+    text-align: center;
+    color: white;
+}
+
+.knop3 {
+    width: 166px;
+    height: 35px;
+    margin-bottom: 20px;
+    background-color: #192024;
+    color: white;
+}
+
+.bos2 {
+    width: 95%;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    background-color: #192024;
+}
+
+.boss2 {
+    text-align: center;
+    background-color: #192024;
+    color: white;
+    width: 95%;
+    margin: auto;
+    height: 140px;
+    padding-top: 25px;
+    margin-top: 45px;
+}
+
+.knop4 {
+    text-align: center;
+}
+
+.nol1 {
+    width: 175px;
+    height: 35px;
+    background-color: #2E80B6;
+    color: white;
+}
+
+.nol2 {
+    width: 175px;
+    height: 35px;
+    color: white;
+    background-color: #92A0AD;
+}
+
+.bos3 {
+    width: 77%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.text4 {
+    width: 70%;
+    text-align: center;
+    margin: auto;
+}
+
+.text5 {
+    text-align: center;
+    color: darksalmon;
+    margin-top: 35px;
+}
+
+.bosss {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 160px;
+}
+
+.text6 {
+    width: 26%;
+}
+
+.text7 {
+    width: 31%;
+}
+
+.bos4 {
+    width: 30%;
+}
+
+.boss3 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.boss3 img {
+    width: 15px;
+    height: 14px;
+    margin-top: -12px;
+}
+
+.boss3 p {
+    margin-top: 1px;
+    margin-left: 13px;
+}
+
+.bos4 p {
+    border-bottom: 1px solid black;
+    width: 70%;
+    height: 16px;
+    margin-top: -15px;
+}
+
+.sum {
+    width: 95%;
+    margin: auto;
+    padding-top: 50px;
+    background-color: #383838;
+    text-align: center;
+    margin-top: 27px;
+    color: white;
+}
+
+.sum h1 {
+    padding-bottom: 30px;
+    margin-top: -30px;
+}
